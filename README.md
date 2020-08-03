@@ -12,6 +12,7 @@ Ce projet a été réalisé par la Team Gossip :
 - Clement PAIN
 - Ton LY-GONNEVILLE
 
+Pour faire fonctionner le site, faire dans le terminal successivement : git clone https://github.com/T-LG/projet_thp10, rm -rf .git, bundle install, rails db:drop, rails db:create, rails db:migrate, rails db:seed, rails server
 
 
 This README would normally document whatever steps are necessary to get the
