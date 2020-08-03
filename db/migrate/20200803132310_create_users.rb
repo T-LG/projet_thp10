@@ -7,7 +7,7 @@ class CreateUsers < ActiveRecord::Migration[5.2]
         t.string :email
         t.integer :age
         t.references :city, index: true
-        
+
       t.timestamps
     end
   end
